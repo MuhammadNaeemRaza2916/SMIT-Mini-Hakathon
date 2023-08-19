@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Muhammad Naeem",
+        "lastName": "Raza",
+        "confirmEmail": "muhammadnaeemraza16@gmail.com",
+        "password": "$2a$12$ZXr70d/KuK7aEstBXIk.eecvyHtkkqHC2w54OjLSK6KN.M9uSjPoW",
+        "repeatPassword": "$2a$12$Q6SOXlYODWBu.mx16CpnkO/ZQPP4.W.CfiSv5CTuebIsPnfmEid6G"
+    },
+    {
+        "id": 2,
+        "firstName": "saeed",
+        "lastName": "raza",
+        "confirmEmail": "saeed@gmail.com",
+        "password": "$2a$12$c8tAKUMxUR27/o/uaGWqi.lyJIJNJGzlvimBbtnS46GSXf1lO2say",
+        "repeatPassword": "$2a$12$GFJGcp/RHDy7z1jpQP4VEObHFN8NxLVrkgx5EiWJHr27yrP6OtZxC"
+    },
+    {
+        "id": 3,
+        "firstName": "naeem",
+        "lastName": "raza",
+        "confirmEmail": "naeem@gmail.com",
+        "password": "$2a$12$UWT5KxbtaNGOp0h2R4XkN.5Ebvx09Lbse5NAsKWv.YdoVzccPxKRW",
+        "repeatPassword": "$2a$12$k54iGu3Qv9CcfVdBDeaQw.rRy2/pFGj.kUkzkVPwCBx1JcWTNphtO"
+    }
+]
